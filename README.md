@@ -45,7 +45,22 @@ plt.plot(X_train,lr.predict(X_train),color="red");
 ```
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
+![image 2024-02-22 131809  1](https://github.com/Santhoshstudent/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145446853/8f3b4cab-c3c6-4549-84b5-f9ac20099845)
+![image 2024-02-22 132013 2](https://github.com/Santhoshstudent/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145446853/55fd0cd2-fff9-48cf-81f1-79a5c3ff9733)
+![image 2024-02-22 132129 3](https://github.com/Santhoshstudent/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145446853/dd815025-6797-4d61-baa5-957101fd0ce6)
+![image 2024-02-22 132337 5](https://github.com/Santhoshstudent/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145446853/66e0893a-b5bd-40b8-b020-d2753f2e1403)
+![image 2024-02-22 132615 6](https://github.com/Santhoshstudent/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145446853/aece16bf-edc3-4b63-b6b0-5f4eed027995)
+![image 2024-02-22 132704 7](https://github.com/Santhoshstudent/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145446853/7a3b759c-80a7-465c-9606-61ca7364c19f)
+![image 2024-02-22 132802 7](https://github.com/Santhoshstudent/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145446853/b2f27566-999e-40d8-9133-74f2613f10f6)
+![image 2024-02-22 132905 8](https://github.com/Santhoshstudent/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145446853/4e1ef250-3162-4942-84a6-6c7cf13ad76d)
+
+
+
+
+
+
+
+
 
 
 ## Result:
